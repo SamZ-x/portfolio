@@ -43,7 +43,7 @@ Edmonton, AB, 1/2021 - 12/2022
 - 4.0 GPA
 - Dean's Honour x4
 - Jason Lang Scholarship Award
-- Capstone Projects: "Gamification" therapy device for Alberta Health Service
+- Capstone Project: "Gamification" therapy device for Alberta Health Service
 
 ### Project
 CNT Capstone Project (2022/12): **Therapy DDR System**
