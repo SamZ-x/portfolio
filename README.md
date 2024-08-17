@@ -40,7 +40,8 @@ Edmonton, AB, 9/2023 - Expected in 12/2025
 **Computer Engineering Technology** - NAIT
 
 Edmonton, AB, 1/2021 - 12/2022
-- 4.0 GPA | Dean's Honour x4
+- 4.0 GPA
+- Dean's Honour x4
 - Jason Lang Scholarship Award
 - Capstone Projects: "Gamification" therapy device for Alberta Health Service
 
