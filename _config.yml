@@ -1,11 +1,10 @@
 title: Sam Zhu
 logo: /asset/img/headshot.jpg
 
-# description: text below image
-social-network-links:
- email: "sam.zhu992@gmail.com"
- phone: 7807086648
- location: Edmonton, AB, T6V 1N3
+description: Software Developer
+email: "sam.zhu992@gmail.com"
+phone: 7807086648
+location: Edmonton, AB, T6V 1N3
 
 # show_downloads: true
 theme: jekyll-theme-minimal
